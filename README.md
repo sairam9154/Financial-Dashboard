@@ -37,9 +37,11 @@ Implement 'What-If' scenario analysis.
 5. final  I add image to link the  website using website url.
 
 # REPORTS
-Screenshot 2025-12-06 153233.png
+<img width="1298" height="720" alt="Screenshot 2025-12-06 153255" src="https://github.com/user-attachments/assets/ded00ecc-a5c3-45da-bad4-1031acc5e46b" />
 
-<img width="1819" height="980" alt="Screenshot 2025-11-12 183917" src="https://github.com/user-attachments/assets/ba83dd72-120a-4a91-837f-bda3b55aef91" />
+
+<img width="1310" height="725" alt="Screenshot 2025-12-06 153233" src="https://github.com/user-attachments/assets/3ddcb082-4370-4af3-91ae-5aba47772d1e" />
+
 
 
 
